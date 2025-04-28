@@ -19,12 +19,15 @@ type LoaderData = {
 
 export async function loader({ request }: LoaderFunctionArgs) {
   try {
-    const response = await fetch("http://127.0.0.1:8000/api/orders", {
-      headers: {
-        Accept: "application/json",
-        "Content-Type": "application/json"
+    const response = await fetch(
+      "https://soolzip-menu-backend.onrender.com/api/orders",
+      {
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json"
+        }
       }
-    });
+    );
 
     if (!response.ok) {
       console.error("서버 응답 오류:", response.status, response.statusText);
@@ -67,7 +70,7 @@ export default function AdminDashboard() {
 
       // backend API 호출
       const response = await fetch(
-        `http://127.0.0.1:8000/api/orders/${orderId}`,
+        `https://soolzip-menu-backend.onrender.com/api/orders/${orderId}`,
         {
           method: "DELETE",
           headers: {
@@ -116,12 +119,15 @@ export default function AdminDashboard() {
         console.log("\n=== 주문 데이터 자동 업데이트 ===");
         console.log("요청 시간:", new Date().toLocaleString("ko-KR"));
 
-        const response = await fetch("http://127.0.0.1:8000/api/orders", {
-          headers: {
-            Accept: "application/json",
-            "Content-Type": "application/json"
+        const response = await fetch(
+          "https://soolzip-menu-backend.onrender.com/api/orders",
+          {
+            headers: {
+              Accept: "application/json",
+              "Content-Type": "application/json"
+            }
           }
-        });
+        );
 
         if (!response.ok) {
           throw new Error(`서버 응답 오류: ${response.status}`);
