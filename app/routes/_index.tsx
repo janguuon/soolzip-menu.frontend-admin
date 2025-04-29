@@ -220,12 +220,6 @@ export default function AdminDashboard() {
                         >
                           주문 삭제
                         </button>
-                        <button
-                          onClick={() => handleDeleteCocktail(order.name)}
-                          className="bg-yellow-500 text-white px-3 py-1 rounded hover:bg-yellow-600 transition-colors"
-                        >
-                          메뉴 삭제
-                        </button>
                       </div>
                     </div>
                   </div>

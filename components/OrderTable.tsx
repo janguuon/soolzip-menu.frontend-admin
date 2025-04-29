@@ -30,7 +30,18 @@ const columns: TableColumn<Order>[] = [
   },
   {
     name: "주문시간",
-    selector: (row: Order) => new Date(row.created_at).toLocaleString(),
+    selector: (row: Order) => {
+      const date = new Date(row.created_at);
+      return date.toLocaleString("ko-KR", {
+        timeZone: "Asia/Seoul",
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+        second: "2-digit"
+      });
+    },
     sortable: true
   }
 ];
