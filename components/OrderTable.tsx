@@ -1,6 +1,7 @@
 import { TableColumn } from "react-data-table-component";
 import { Order } from "../types/order";
 import { useEffect, useState } from "react";
+import { Link } from "@remix-run/react";
 
 const columns: TableColumn<Order>[] = [
   {
