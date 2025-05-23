@@ -1,5 +1,17 @@
 import { useParams, useNavigate } from "@remix-run/react";
-import { cocktails } from "./_index";
+import cocktails from "../../menu.json";
+
+type Cocktail = {
+  name: string;
+  image: string;
+  ingredients: string[];
+  instructions: string[];
+  description: string;
+};
+
+type CocktailMenu = {
+  [key: string]: Cocktail;
+};
 
 export default function RecipePage() {
   const { id } = useParams();

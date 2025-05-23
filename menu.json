@@ -1,0 +1,508 @@
+{
+  "1": {
+     "name": "스크류드라이버",
+     "image": "/스크류드라이버.png",
+     "ingredients": [
+       "보드카 1~1.5oz","오렌지 주스"
+     ],
+     "instructions": [
+       "얼음을 채운 하이볼글라스에 보드카 넣고 오렌지 주스로 가득"
+     ],
+     "description": "상큼한 오렌지 주스와 보드카가 어우러진 클래식한 칵테일"
+  },
+  "2": {
+     "name": "레드 오렌지 드림",
+     "image": "/레드 오렌지 드림.png",
+     "ingredients": [
+       "보드카 1oz","오렌지 주스 2oz","탄산수 2oz"
+     ],
+     "instructions": [
+       "얼음에 보드카, 오렌지 주스, 탄산수 넣고 젓기"
+     ],
+     "description": "톡 쏘는 탄산과 상큼한 오렌지의 조화가 매력적인 보드카 칵테일"
+  },
+  "3": {
+     "name": "케이프코드",
+     "image": "/케이프코드.png",
+     "ingredients": [
+       "보드카 1~1.5oz","크렌배리 3oz or fillup"
+     ],
+     "instructions": [
+       "얼음에 보드카, 주스 넣고 젓기"
+     ],
+     "description": "크렌베리의 새콤함이 돋보이는 보드카 기반 칵테일"
+  },
+  "4": {
+     "name": "씨브리즈",
+     "image": "/씨브리즈.png",
+     "ingredients": [
+       "보드카 1~1.5oz","크렌배리 3oz","자몽주스 1/4oz"
+     ],
+     "instructions": [
+       "얼음에 보드카, 크렌베리, 자몽주스 넣고 젓기"
+     ],
+     "description": "자몽과 크렌베리의 균형잡힌 산미가 인상적인 시원한 칵테일"
+  },
+  "5": {
+     "name": "솔티독",
+     "image": "/솔티독.png",
+     "ingredients": [
+       "보드카 1~1.5oz","자몽주스 fillup","소금"
+     ],
+     "instructions": [
+       "잔 입구에 자몽주스 바르고 소금 바른 뒤 얼음 넣고 보드카, 자몽 주스 넣기"
+     ],
+     "description": "자몽의 쌉싸름한 맛과 소금 림이 어우러지는 감각적인 보드카 칵테일"
+  },
+  "6": {
+     "name": "테일리스 독",
+     "image": "/테일리스 독.png",
+     "ingredients": [
+       "보드카 1~1.5oz","자몽주스 fillup"
+     ],
+     "instructions": [
+       "얼음 넣고 보드카, 자몽 주스 넣기"
+     ],
+     "description": "자몽 주스만으로도 충분히 산뜻한, 깔끔한 보드카 칵테일"
+  },
+  "7": {
+     "name": "그레이 하운드",
+     "image": "/그레이 하운드.png",
+     "ingredients": [
+       "보드카 1~1.5oz","자몽주스 fillup","소금"
+     ],
+     "instructions": [
+       "얼음 넣고 보드카, 자몽 주스, 소금 조금 넣기"
+     ],
+     "description": "소금 한 꼬집으로 깊이를 더한 자몽 보드카 칵테일"
+  },
+  "8": {
+     "name": "마드라스",
+     "image": "/마드라스.png",
+     "ingredients": [
+       "보드카 1~1.5oz","크랜베리 2oz","오렌지 주스 2oz"
+     ],
+     "instructions": [
+       "얼음에 다 넣고 젓기"
+     ],
+     "description": "크렌베리와 오렌지의 조화로운 산미가 매력적인 보드카 칵테일"
+  },
+  "9": {
+     "name": "섹스온더비치",
+     "image": "/섹스온더비치.png",
+     "ingredients": [
+       "보드카 1oz","피치트리 0.5oz","크렌배리 주스 1oz","오렌지 주스 1oz"
+     ],
+     "instructions": [
+       "얼음에 차례대로 넣기"
+     ],
+     "description": "피치트리와 과일 주스가 어우러진 달콤하고 화려한 칵테일"
+  },
+  "10": {
+     "name": "우우",
+     "image": "/우우.png",
+     "ingredients": [
+       "보드카 1oz","피치트리 0.5oz","크랜베리 주스 fillup"
+     ],
+     "instructions": [
+       "얼음에 보드카, 피치트리 넣고 크랜베리 주스로 채우기"
+     ],
+     "description": "크렌베리와 복숭아향이 돋보이는 상큼한 칵테일"
+  },
+  "11": {
+     "name": "쿠바리브레",
+     "image": "/쿠바리브레.png",
+     "ingredients": [
+       "럼 1&2/3oz","라임 주스 1/3oz","콜라 4oz"
+     ],
+     "instructions": [
+       "얼음에 다 넣기"
+     ],
+     "description": "럼과 콜라의 클래식 조합에 라임의 상큼함을 더한 음료"
+  },
+  "12": {
+     "name": "보드카 리브레",
+     "image": "/보드카 리브레.png",
+     "ingredients": [
+       "보드카 1~1.5oz","레몬즙 0.5","콜라 4oz~fillup"
+     ],
+     "instructions": [
+       "얼음에 다 넣기"
+     ],
+     "description": "보드카와 콜라에 레몬의 상큼함이 살아있는 캐주얼 칵테일"
+  },
+  "13": {
+     "name": "모스코뮬",
+     "image": "/모스코뮬.png",
+     "ingredients": [
+       "보드카 1~1.5oz","라임즙 0.5oz","진저에일 fillup"
+     ],
+     "instructions": [
+       "얼음에 다 넣기"
+     ],
+     "description": "진저에일과 라임의 청량함이 돋보이는 대표 보드카 칵테일"
+  },
+  "14": {
+     "name": "슬렛지해머",
+     "image": "/슬렛지해머.png",
+     "ingredients": [
+       "보드카 1.5oz","라임즙 0.5oz"
+     ],
+     "instructions": [
+       "얼음에 쉐이킹 하기"
+     ],
+     "description": "강렬한 보드카에 라임으로 상큼함을 더한 깔끔한 칵테일"
+  },
+  "15": {
+     "name": "레몬드랍",
+     "image": "/레몬드랍.png",
+     "ingredients": [
+       "보드카 0.5oz","레몬즙 0.5oz","설탕 1tsp"
+     ],
+     "instructions": [
+       "다 섞기"
+     ],
+     "description": "상큼한 레몬과 설탕이 어우러진 작지만 강렬한 칵테일"
+  },
+  "16": {
+     "name": "보드카 냉동스트",
+     "image": "/보드카 냉동스트.png",
+     "ingredients": [
+       "보드카 1oz"
+     ],
+     "instructions": [
+       "냉동실 보드카 스트레이트"
+     ],
+     "description": "차갑게 얼린 보드카의 풍미를 그대로 즐길 수 있는 스트레이트 샷"
+  },
+  "17": {
+     "name": "오르가즘",
+     "image": "/오르가즘.png",
+     "ingredients": [
+       "깔루아 1oz","아마레또 1oz","베일리스 1oz"
+     ],
+     "instructions": [
+       "쉐이커에 얼음과 다 넣고 섞기"
+     ],
+     "description": "세 가지 리큐르가 부드럽게 어우러진 달콤하고 진한 칵테일"
+  },
+  "18": {
+     "name": "진 하이볼",
+     "image": "/진 하이볼.png",
+     "ingredients": [
+       "진","토닉워터","오렌지","사이다"
+     ],
+     "instructions": [
+       "얼음에 진, 나머지 넣고 젓기"
+     ],
+     "description": "진의 향긋함에 탄산이 더해진 상쾌한 롱드링크"
+  },
+  "19": {
+     "name": "럼 하이볼",
+     "image": "/럼 하이볼.png",
+     "ingredients": [
+       "럼","콜라","사이다","망고","파인애플"
+     ],
+     "instructions": [
+       "다 넣고 젓기"
+     ],
+     "description": "럼과 과일향이 조화를 이루는 달콤한 하이볼"
+  },
+  "20": {
+     "name": "보드카 하이볼",
+     "image": "/보드카 하이볼.png",
+     "ingredients": [
+       "보드카","토닉워터","오렌지주스","콜라","사이다"
+     ],
+     "instructions": [
+       "다 넣고 젓기"
+     ],
+     "description": "다양한 탄산과 보드카가 어우러진 개성 있는 롱드링크"
+  },
+  "21": {
+     "name": "데킬라 하이볼",
+     "image": "/데킬라 하이볼.png",
+     "ingredients": [
+       "데킬라","감귤주스","레몬에이드","파인애플","자몽 주스"
+     ],
+     "instructions": [
+       "다 넣고 젓기"
+     ],
+     "description": "다채로운 감귤류 주스가 데킬라와 어우러진 상큼한 하이볼"
+  },
+  "22": {
+     "name": "위스키 하이볼",
+     "image": "/위스키 하이볼.png",
+     "ingredients": [
+       "위스키","콜라"
+     ],
+     "instructions": [
+       "다 넣고 젓기"
+     ],
+     "description": "콜라와 위스키가 어우러진 캐주얼한 분위기의 하이볼"
+  },
+  "23": {
+     "name": "진토닉",
+     "image": "/진토닉.png",
+     "ingredients": [
+       "진 1oz","토닉워터 3oz","라임즙 or 레몬즙 0.5oz"
+     ],
+     "instructions": [
+       "얼음에 다 넣기"
+     ],
+     "description": "진의 향긋함과 토닉워터의 쌉싸름한 조화가 인상적인 클래식 칵테일"
+  },
+  "24": {
+     "name": "블루라군",
+     "image": "/블루라군.png",
+     "ingredients": [
+       "보드카 1oz","블루큐라소 1oz","레몬즙 0.5oz"
+     ],
+     "instructions": [
+       "쉐이커에 얼음과 다 넣고 섞은 뒤 얼음 없이 잔에 넣기"
+     ],
+     "description": "블루 큐라소와 레몬이 어우러진 시원하고 청량한 보드카 칵테일"
+  },
+  "25": {
+     "name": "오렌지블라섬",
+     "image": "/오렌지블라섬.png",
+     "ingredients": [
+       "진 1oz","오렌지주스 1oz","설탕 1tsp"
+     ],
+     "instructions": [
+       "얼음 빼고 다 넣고 섞은 뒤 얼음 넣고 섞기"
+     ],
+     "description": "오렌지의 상큼함과 진이 어우러진 가볍고 향긋한 칵테일"
+  },
+  "26": {
+     "name": "블랙러시안",
+     "image": "/블랙러시안.png",
+     "ingredients": [
+       "보드카 1oz","깔루아 0.5oz"
+     ],
+     "instructions": [
+       "얼음에 다 넣기"
+     ],
+     "description": "보드카와 깔루아의 진한 맛이 어우러진 심플한 칵테일"
+  },
+  "27": {
+     "name": "화이트러시안",
+     "image": "/화이트러시안.png",
+     "ingredients": [
+       "보드카 1oz","깔루아 1oz","우유 1oz"
+     ],
+     "instructions": [
+       "얼음에 다 넣기"
+     ],
+     "description": "블랙러시안에 우유를 더해 부드럽고 크리미한 맛을 낸 칵테일"
+  },
+  "28": {
+     "name": "깔루아 밀크",
+     "image": "/깔루아 밀크.png",
+     "ingredients": [
+       "깔루아 2oz","우유 3oz"
+     ],
+     "instructions": [
+       "얼음에 다 넣기"
+     ],
+     "description": "달콤한 깔루아와 우유의 조화가 매력적인 음료"
+  },
+  "29": {
+     "name": "마인드 이레이저",
+     "image": "/마인드 이레이저.png",
+     "ingredients": [
+       "보드카 1oz","깔루아 1oz","사이다 1oz"
+     ],
+     "instructions": [
+       "깔루아 보드카 얼음 쉐이크 뒤 잔에 얼음 넣고 혼합물 넣고 사이다 올리기"
+     ],
+     "description": "삼층 구조의 독특한 조합이 인상적인 칵테일"
+  },
+  "30": {
+     "name": "블루 하와이안",
+     "image": "/블루 하와이안.png",
+     "ingredients": [
+       "말리부 1oz","블루큐라소 0.5oz","파인애플주스 1oz","라임즙 0.3oz"
+     ],
+     "instructions": [
+       "쉐이크 후 얼음 넣고 다 넣기"
+     ],
+     "description": "열대 과일의 향이 가득한 파란빛의 이국적인 칵테일"
+  },
+  "31": {
+     "name": "말리부 베이브리즈",
+     "image": "/말리부 베이브리즈.png",
+     "ingredients": [
+       "말리부 1oz","크랜베리주스 1oz","파인애플주스 1oz"
+     ],
+     "instructions": [
+       "얼음에 다 넣고 살짝 섞기"
+     ],
+     "description": "코코넛과 과일 주스의 조화로 달콤함이 풍부한 칵테일"
+  },
+  "32": {
+     "name": "블루 사파이어",
+     "image": "/블루 사파이어.png",
+     "ingredients": [
+       "블루큐라소 1oz","피치트리 1oz","말리부 1oz","라임즙 0.5oz","사이다 fillup"
+     ],
+     "instructions": [
+       "얼음 넣고 블루큐라소, 피치트리, 말리부 순서대로 쌓고 사이다"
+     ],
+     "description": "색감과 맛 모두 화려한 피치, 코코넛, 사이다 칵테일"
+  },
+  "33": {
+     "name": "블루스카이",
+     "image": "/블루스카이.png",
+     "ingredients": [
+       "피치트리 1oz","블루큐라소 1oz","보드카 1oz","우유 몇방울"
+     ],
+     "instructions": [
+       "차례대로 플로팅하고 우유 몇방울 떨어뜨리기"
+     ],
+     "description": "하늘을 담다"
+  },
+  "34": {
+     "name": "미즈와리",
+     "image": "/미즈와리.png",
+     "ingredients": [
+       "위스키 1oz","물 1oz"
+     ],
+     "instructions": [
+       "위스키에 물 넣기"
+     ],
+     "description": "위스키에 물을 섞어 부드럽게 즐기는 전통적인 방식"
+  },
+  "35": {
+     "name": "위스키 사워",
+     "image": "/위스키 사워.png",
+     "ingredients": [
+       "위스키 1oz","레몬즙 0.5oz","설탕 1tsp"
+     ],
+     "instructions": [
+       "다 섞고 얼음 넣기"
+     ],
+     "description": "새콤달콤한 레몬과 설탕이 위스키와 어우러진 클래식 칵테일"
+  },
+  "36": {
+     "name": "워터드랍",
+     "image": "/워터드랍.png",
+     "ingredients": [
+       "위스키 1oz","물 3~4 drop"
+     ],
+     "instructions": [
+       "위스키에 물 떨어뜨리기"
+     ],
+     "description": "몇 방울의 물로 위스키의 풍미를 섬세하게 여는 방식"
+  },
+  "37": {
+     "name": "위스키 플로트",
+     "image": "/위스키 플로트.png",
+     "ingredients": [
+       "위스키 0.5oz","물 1oz"
+     ],
+     "instructions": [
+       "물에 얼음 넣고 위스키 플로팅"
+     ],
+     "description": "물 위에 떠있는 위스키의 향을 즐기는 정적인 칵테일"
+  },
+  "38": {
+     "name": "오유와리",
+     "image": "/오유와리.png",
+     "ingredients": [
+       "위스키 1oz","따뜻한 물 1oz"
+     ],
+     "instructions": [
+       "위스키에 따뜻한 물 떨어뜨리기"
+     ],
+     "description": "따뜻한 물로 위스키를 부드럽게 즐기는 일본식 칵테일"
+  },
+  "39": {
+     "name": "버터스카치 밀크",
+     "image": "/버터스카치 밀크.png",
+     "ingredients": [
+       "버터스카치 1oz","우유 2oz"
+     ],
+     "instructions": [
+       "얼음에 폭풍 쉐이크 후 얼음 없이 잔에 넣기"
+     ],
+     "description": "버터스카치와 우유가 어우러진 달콤하고 부드러운 음료"
+  },
+  "40": {
+     "name": "나겔넥타",
+     "image": "/나겔넥타.png",
+     "ingredients": [
+       "버터스카치 1oz","우유 1oz"
+     ],
+     "instructions": [
+       "잔에 얼음 넣고 다 넣고 저어주기"
+     ],
+     "description": "우유와 함께 즐기는 풍부한 향의 버터스카치 칵테일"
+  },
+  "41": {
+     "name": "캬라멜 콕",
+     "image": "/캬라멜 콕.png",
+     "ingredients": [
+       "버터스카치 1oz","콜라 6oz","증류주 0.5oz(옵션)"
+     ],
+     "instructions": [
+       "잔에 얼음 넣고 다 넣고 저어주기"
+     ],
+     "description": "콜라와 캐러멜의 달콤함이 어우러진 색다른 하이볼"
+  },
+  "42": {
+     "name": "코튼켄디",
+     "image": "/코튼켄디.png",
+     "ingredients": [
+       "버터스카치 1oz","사이다 fillup"
+     ],
+     "instructions": [
+       "잔에 얼음 넣고 버터스카치 넣고 사이다 넣기"
+     ],
+     "description": "버터스카치와 사이다의 상큼한 조화가 돋보이는 칵테일"
+  },
+  "43": {
+     "name": "세덕션 온더락",
+     "image": "/세덕션 온더락.png",
+     "ingredients": [
+       "버터스카치 0.5oz","오렌지 주스 1oz","사이다 0.5oz"
+     ],
+     "instructions": [
+       "잔에 얼음 넣고 다 넣고 저어주기"
+     ],
+     "description": "상큼한 과일 주스와 사이다로 가볍고 산뜻한 맛을 낸 칵테일"
+  },
+  "44": {
+     "name": "말리부 밀크",
+     "image": "/말리부 밀크.png",
+     "ingredients": [
+       "말리부 1.5oz","우유 fillup"
+     ],
+     "instructions": [
+       "잔에 얼음 넣고 우유 넣고 말리부 넣고 젓기"
+     ],
+     "description": "코코넛 향의 말리부와 우유의 조화로 부드러운 단맛이 특징"
+  },
+  "45": {
+     "name": "스카이 다이빙",
+     "image": "/스카이 다이빙.png",
+     "ingredients": [
+       "화이트 럼 1oz","블루 큐라소 0.5oz","라임주스 0.5oz"
+     ],
+     "instructions": [
+       "얼음에 섞고 얼음 없는 잔에 넣기"
+     ],
+     "description": "푸른빛의 럼 칵테일로 청량한 기분을 선사하는 칵테일"
+  },
+  "46": {
+     "name": "쓸쓸함",
+     "image": "/쓸쓸함.png",
+     "ingredients": [
+       "맥주 500ml", "쓸쓸한 자"
+     ],
+     "instructions": [
+       "맥주 500ml, 쓸쓸함 1 스푼"
+     ],
+     "description": "쓸쓸함 한잔 주시오. 나의 쓸쓸함은 오천원을 넘지 않아..."
+  }
+}
