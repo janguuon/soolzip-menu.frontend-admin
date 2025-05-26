@@ -1,4 +1,5 @@
 import { useNavigate } from "@remix-run/react";
+import { useState } from "react";
 import cocktails from "../../menu.json";
 
 type Cocktail = {
@@ -15,12 +16,17 @@ type CocktailMenu = {
 
 export default function RecipeList() {
   const navigate = useNavigate();
-  const cocktailList = Object.entries(cocktails as CocktailMenu);
+  const [searchTerm, setSearchTerm] = useState("");
+  const cocktailList = Object.entries(cocktails as CocktailMenu)
+    .filter(([_, cocktail]) =>
+      cocktail.name.toLowerCase().includes(searchTerm.toLowerCase())
+    );
 
   return (
     <div className="min-h-screen bg-gray-100 p-8">
       <div className="max-w-4xl mx-auto">
-        <div className="flex justify-between items-center mb-8">
+        <div className="flex flex-col space-y-4 mb-8">
+          <div className="flex justify-between items-center">
           <h1 className="text-3xl font-bold">전체 레시피 목록</h1>
           <button
             onClick={() => navigate("/")}
@@ -28,6 +34,25 @@ export default function RecipeList() {
           >
             ← 메인으로 돌아가기
           </button>
+          </div>
+          
+          <div className="relative">
+            <input
+              type="text"
+              placeholder="칵테일 이름으로 검색..."
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+            />
+            {searchTerm && (
+              <button
+                onClick={() => setSearchTerm("")}
+                className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-500 hover:text-gray-700"
+              >
+                ×
+              </button>
+            )}
+          </div>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
